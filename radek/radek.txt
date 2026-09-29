@@ -1,0 +1,2 @@
+Ukazkovy soubor pro vetev radek.
+API klic v souboru .env je nahodny, fiktivni a nefunguje u zadne sluzby.
